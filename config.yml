@@ -1,0 +1,9 @@
+# ALL CONFIG OPTIONS ARE LIKE THIS:
+# XMutePopReq is the required number of players online for X to be muted
+# To disable a mute, set it to any negative number
+# To always mute, set it to 0
+# For Example, JoinMutePoPReq: 20 will only mute join messages when 20 or more people are online
+JoinMutePopReq: 20
+LeaveMutePopReq: 20
+AdvanceMutePopReq: 20
+DeathMutePopReq: 20
